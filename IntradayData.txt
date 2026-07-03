@@ -1,4 +1,4 @@
-Gold (OG|GC) OGG7 (207.52 DTE) vs 4288.1 (+68.8) - Intraday Volume
+Gold (OG|GC) OGG7 (207.51 DTE) vs 4288.1 (+68.8) - Intraday Volume
 Put: 0 Call: 0 Vol: 22.61 Vol Chg: 0.00 Future Chg: 68.8
 Strike,Call,Put,Vol Settle
 2700,0,0,0.32011126943950124
