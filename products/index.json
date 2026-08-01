@@ -50,5 +50,9 @@
  "XRP_XRP": {
   "label": "XRP (XRP|XRP)",
   "updated_at": "2026-08-01T09:28:09.733Z"
+ },
+ "WTI_CRUDE_OIL_LO": {
+  "label": "WTI Crude Oil (LO|CL)",
+  "updated_at": "2026-08-01T09:28:41.731Z"
  }
 }
