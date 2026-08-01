@@ -98,5 +98,9 @@
  "JPY_USD_JPU": {
   "label": "JPY/USD (JPU|6J)",
   "updated_at": "2026-08-01T09:44:52.734Z"
+ },
+ "FED_FUNDS_OZQ": {
+  "label": "Fed Funds (OZQ|ZQ)",
+  "updated_at": "2026-08-01T11:06:27.769Z"
  }
 }
