@@ -46,5 +46,9 @@
  "SOLANA_SOL": {
   "label": "Solana (SOL|SOL)",
   "updated_at": "2026-08-01T09:27:07.732Z"
+ },
+ "XRP_XRP": {
+  "label": "XRP (XRP|XRP)",
+  "updated_at": "2026-08-01T09:28:09.733Z"
  }
 }
