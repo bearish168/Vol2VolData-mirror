@@ -78,5 +78,9 @@
  "EUR_USD_EUU": {
   "label": "EUR/USD (EUU|6E)",
   "updated_at": "2026-08-01T09:41:14.729Z"
+ },
+ "AUD_USD_ADU": {
+  "label": "AUD/USD (ADU|6A)",
+  "updated_at": "2026-08-01T09:42:01.730Z"
  }
 }
