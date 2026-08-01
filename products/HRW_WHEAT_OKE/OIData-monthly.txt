@@ -1,4 +1,4 @@
-HRW Wheat (OKE|KE) OKEU6 (20.47 DTE) vs 707.5 (+0) - Open Interest
+HRW Wheat (OKE|KE) OKEU6 (20.38 DTE) vs 707.5 (+0) - Open Interest
 Put: 17,556 Call: 78,448 Vol: 35.40 Vol Chg: 0.23 Future Chg: 0
 Strike,Call,Put,Vol Settle
 550,0,104,0
