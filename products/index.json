@@ -74,5 +74,9 @@
  "DOW_JONES_YM": {
   "label": "Dow Jones (YM|YM)",
   "updated_at": "2026-08-01T09:40:18.800Z"
+ },
+ "EUR_USD_EUU": {
+  "label": "EUR/USD (EUU|6E)",
+  "updated_at": "2026-08-01T09:41:14.729Z"
  }
 }
