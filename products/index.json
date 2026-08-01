@@ -62,5 +62,9 @@
  "S_P_500_ES": {
   "label": "S&P 500 (ES|ES)",
   "updated_at": "2026-08-01T09:38:29.729Z"
+ },
+ "NASDAQ_100_NQ": {
+  "label": "NASDAQ 100 (NQ|NQ)",
+  "updated_at": "2026-08-01T09:39:08.731Z"
  }
 }
