@@ -42,5 +42,9 @@
  "ETHER_ETH": {
   "label": "Ether (ETH|ETH)",
   "updated_at": "2026-08-01T09:26:38.040Z"
+ },
+ "SOLANA_SOL": {
+  "label": "Solana (SOL|SOL)",
+  "updated_at": "2026-08-01T09:27:07.732Z"
  }
 }
