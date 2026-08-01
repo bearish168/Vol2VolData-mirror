@@ -18,5 +18,9 @@
  "SOYBEANS_OZS": {
   "label": "Soybeans (OZS|ZS)",
   "updated_at": "2026-08-01T06:42:10.801Z"
+ },
+ "SOYBEAN_CRUSH_BCE": {
+  "label": "Soybean Crush (BCE|BCE)",
+  "updated_at": "2026-08-01T09:21:20.744Z"
  }
 }
