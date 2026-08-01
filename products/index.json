@@ -2,5 +2,9 @@
  "GOLD_OG": {
   "label": "Gold (OG|GC)",
   "updated_at": "2026-08-01T06:27:35.386Z"
+ },
+ "CORN_OZC": {
+  "label": "Corn (OZC|ZC)",
+  "updated_at": "2026-08-01T06:29:37.745Z"
  }
 }
