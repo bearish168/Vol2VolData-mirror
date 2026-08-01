@@ -14,5 +14,9 @@
  "HRW_WHEAT_OKE": {
   "label": "HRW Wheat (OKE|KE)",
   "updated_at": "2026-08-01T06:30:47.397Z"
+ },
+ "SOYBEANS_OZS": {
+  "label": "Soybeans (OZS|ZS)",
+  "updated_at": "2026-08-01T06:42:10.801Z"
  }
 }
