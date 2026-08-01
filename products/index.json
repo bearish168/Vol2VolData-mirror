@@ -66,5 +66,9 @@
  "NASDAQ_100_NQ": {
   "label": "NASDAQ 100 (NQ|NQ)",
   "updated_at": "2026-08-01T09:39:08.731Z"
+ },
+ "RUSSELL_2K_RTO": {
+  "label": "Russell 2K (RTO|RTY)",
+  "updated_at": "2026-08-01T09:39:46.738Z"
  }
 }
