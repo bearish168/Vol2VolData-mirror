@@ -70,5 +70,9 @@
  "RUSSELL_2K_RTO": {
   "label": "Russell 2K (RTO|RTY)",
   "updated_at": "2026-08-01T09:39:46.738Z"
+ },
+ "DOW_JONES_YM": {
+  "label": "Dow Jones (YM|YM)",
+  "updated_at": "2026-08-01T09:40:18.800Z"
  }
 }
