@@ -94,5 +94,9 @@
  "GBP_USD_GBU": {
   "label": "GBP/USD (GBU|6B)",
   "updated_at": "2026-08-01T09:44:07.734Z"
+ },
+ "JPY_USD_JPU": {
+  "label": "JPY/USD (JPU|6J)",
+  "updated_at": "2026-08-01T09:44:52.734Z"
  }
 }
