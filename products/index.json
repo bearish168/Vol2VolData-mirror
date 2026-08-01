@@ -102,5 +102,9 @@
  "FED_FUNDS_OZQ": {
   "label": "Fed Funds (OZQ|ZQ)",
   "updated_at": "2026-08-01T11:06:27.769Z"
+ },
+ "1M_SOFR_SR1": {
+  "label": "1M SOFR (SR1|SR1)",
+  "updated_at": "2026-08-01T11:07:08.730Z"
  }
 }
