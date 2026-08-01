@@ -54,5 +54,9 @@
  "WTI_CRUDE_OIL_LO": {
   "label": "WTI Crude Oil (LO|CL)",
   "updated_at": "2026-08-01T09:28:41.731Z"
+ },
+ "BRENT_FSM_BZO": {
+  "label": "Brent FSM (BZO|BZ)",
+  "updated_at": "2026-08-01T09:36:48.753Z"
  }
 }
