@@ -86,5 +86,9 @@
  "CAD_USD_CAU": {
   "label": "CAD/USD (CAU|6C)",
   "updated_at": "2026-08-01T09:42:44.740Z"
+ },
+ "CHF_USD_CHU": {
+  "label": "CHF/USD (CHU|6S)",
+  "updated_at": "2026-08-01T09:43:23.732Z"
  }
 }
