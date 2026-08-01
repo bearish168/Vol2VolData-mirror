@@ -58,5 +58,9 @@
  "BRENT_FSM_BZO": {
   "label": "Brent FSM (BZO|BZ)",
   "updated_at": "2026-08-01T09:36:48.753Z"
+ },
+ "S_P_500_ES": {
+  "label": "S&P 500 (ES|ES)",
+  "updated_at": "2026-08-01T09:38:29.729Z"
  }
 }
