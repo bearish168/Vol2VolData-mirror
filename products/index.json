@@ -22,5 +22,9 @@
  "SOYBEAN_CRUSH_BCE": {
   "label": "Soybean Crush (BCE|BCE)",
   "updated_at": "2026-08-01T09:21:20.744Z"
+ },
+ "OATS_OZO": {
+  "label": "Oats (OZO|ZO)",
+  "updated_at": "2026-08-01T09:23:09.706Z"
  }
 }
