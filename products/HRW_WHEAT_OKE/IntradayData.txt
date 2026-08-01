@@ -1,4 +1,4 @@
-HRW Wheat (OKE|KE) OE1Q6 (6.49 DTE) vs 707.5 (+0) - Intraday Volume
+HRW Wheat (OKE|KE) OE1Q6 (6.47 DTE) vs 707.5 (+0) - Intraday Volume
 Put: 0 Call: 0 Vol: 32.90 Vol Chg: 0.14 Future Chg: 0
 Strike,Call,Put,Vol Settle
 620,0,0,0
