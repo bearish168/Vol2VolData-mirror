@@ -38,5 +38,9 @@
  "BITCOIN_BTC": {
   "label": "Bitcoin (BTC|BTC)",
   "updated_at": "2026-08-01T09:26:07.732Z"
+ },
+ "ETHER_ETH": {
+  "label": "Ether (ETH|ETH)",
+  "updated_at": "2026-08-01T09:26:38.040Z"
  }
 }
