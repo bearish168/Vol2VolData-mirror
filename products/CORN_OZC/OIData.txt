@@ -1,4 +1,4 @@
-Corn (OZC|ZC) ZC1Q6 (6.49 DTE) vs 440.75 (+0) - Open Interest
+Corn (OZC|ZC) ZC1Q6 (6.48 DTE) vs 440.75 (+0) - Open Interest
 Put: 2,571 Call: 4,403 Vol: 22.71 Vol Chg: -0.22 Future Chg: 0
 Strike,Call,Put,Vol Settle
 405,0,400,0
