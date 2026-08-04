@@ -134,5 +134,9 @@
  "PLATINUM_PO": {
   "label": "Platinum (PO|PL)",
   "updated_at": "2026-08-04T02:08:01.498Z"
+ },
+ "PALLADIUM_PAO": {
+  "label": "Palladium (PAO|PA)",
+  "updated_at": "2026-08-04T02:08:51.496Z"
  }
 }
