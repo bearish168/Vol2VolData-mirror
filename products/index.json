@@ -138,5 +138,9 @@
  "PALLADIUM_PAO": {
   "label": "Palladium (PAO|PA)",
   "updated_at": "2026-08-04T02:08:51.496Z"
+ },
+ "MICRO_GOLD_OMG": {
+  "label": "Micro Gold (OMG|MGC)",
+  "updated_at": "2026-08-04T02:09:21.884Z"
  }
 }
