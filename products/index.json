@@ -110,5 +110,9 @@
  "5_YR_FV": {
   "label": "5 Yr (FV|FV)",
   "updated_at": "2026-08-04T02:01:47.292Z"
+ },
+ "10_YR_TY": {
+  "label": "10 Yr (TY|TY)",
+  "updated_at": "2026-08-04T02:02:23.296Z"
  }
 }
