@@ -130,5 +130,9 @@
  "SILVER_SO": {
   "label": "Silver (SO|SI)",
   "updated_at": "2026-08-04T02:07:11.833Z"
+ },
+ "PLATINUM_PO": {
+  "label": "Platinum (PO|PL)",
+  "updated_at": "2026-08-04T02:08:01.498Z"
  }
 }
