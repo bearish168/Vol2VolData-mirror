@@ -142,5 +142,9 @@
  "MICRO_GOLD_OMG": {
   "label": "Micro Gold (OMG|MGC)",
   "updated_at": "2026-08-04T02:09:21.884Z"
+ },
+ "COPPER_HXE": {
+  "label": "Copper (HXE|HG)",
+  "updated_at": "2026-08-04T02:09:51.688Z"
  }
 }
