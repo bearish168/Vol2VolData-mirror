@@ -146,5 +146,9 @@
  "COPPER_HXE": {
   "label": "Copper (HXE|HG)",
   "updated_at": "2026-08-04T02:09:51.688Z"
+ },
+ "HRC_STEEL_HRO": {
+  "label": "HRC Steel (HRO|HRC)",
+  "updated_at": "2026-08-04T02:11:39.307Z"
  }
 }
