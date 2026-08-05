@@ -170,5 +170,9 @@
  "3M_SOFR_SR3": {
   "label": "3M SOFR (SR3|SR3)",
   "updated_at": "2026-08-05T17:46:31.997Z"
+ },
+ "2_YR_TU": {
+  "label": "2 Yr (TU|TU)",
+  "updated_at": "2026-08-05T17:47:09.985Z"
  }
 }
