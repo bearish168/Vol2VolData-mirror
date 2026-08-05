@@ -178,5 +178,9 @@
  "ALUMINUM_AX": {
   "label": "Aluminum (AX|ALI)",
   "updated_at": "2026-08-05T18:42:56.005Z"
+ },
+ "IRON_ORE_APO_ICT": {
+  "label": "Iron Ore APO (ICT|TIO)",
+  "updated_at": "2026-08-05T19:10:55.022Z"
  }
 }
