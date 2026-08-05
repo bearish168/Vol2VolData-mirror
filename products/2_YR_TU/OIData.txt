@@ -1,0 +1,4 @@
+2 Yr (TU|TU) WT1Q6 (0.05 DTE) vs 103.00125 (+0.00375) - Open Interest
+Put: 1,987 Call: 889 Vol: 1.41 Vol Chg: -0.39 Future Chg: 0.00375
+Strike,Call,Put,Vol Settle
+103,216,673,0.01506131887435913
