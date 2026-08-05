@@ -166,5 +166,9 @@
  "S_P_MIDCAP_400_EMD": {
   "label": "S&P MidCap 400 (EMD|EMD)",
   "updated_at": "2026-08-05T17:07:54.973Z"
+ },
+ "3M_SOFR_SR3": {
+  "label": "3M SOFR (SR3|SR3)",
+  "updated_at": "2026-08-05T17:46:31.997Z"
  }
 }
