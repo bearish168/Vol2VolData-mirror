@@ -158,5 +158,9 @@
  "WTI_CRUDE_OIL_LC": {
   "label": "WTI Crude Oil (LC|CL)",
   "updated_at": "2026-08-05T15:14:55.921Z"
+ },
+ "BRENT_CRUDE_OIL_BE": {
+  "label": "Brent Crude Oil (BE|BZ)",
+  "updated_at": "2026-08-05T17:00:55.972Z"
  }
 }
