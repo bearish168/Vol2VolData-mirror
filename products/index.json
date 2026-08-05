@@ -150,5 +150,9 @@
  "HRC_STEEL_HRO": {
   "label": "HRC Steel (HRO|HRC)",
   "updated_at": "2026-08-04T02:11:39.307Z"
+ },
+ "SOYBEAN_OIL_OZL": {
+  "label": "Soybean Oil (OZL|ZL)",
+  "updated_at": "2026-08-05T13:42:46.870Z"
  }
 }
