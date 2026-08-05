@@ -154,5 +154,9 @@
  "SOYBEAN_OIL_OZL": {
   "label": "Soybean Oil (OZL|ZL)",
   "updated_at": "2026-08-05T13:42:46.870Z"
+ },
+ "WTI_CRUDE_OIL_LC": {
+  "label": "WTI Crude Oil (LC|CL)",
+  "updated_at": "2026-08-05T15:14:55.921Z"
  }
 }
