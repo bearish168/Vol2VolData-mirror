@@ -1,32 +1,36 @@
 {
  "data": {
   "monthly": {
-   "session": "2026-08-04",
-   "code": "OZWU6",
-   "rows": 99,
-   "at": "2026-08-04T13:24:20.898Z"
+   "session": "2026-09-01",
+   "code": "OZWV6",
+   "rows": 153,
+   "at": "2026-09-01T03:30:49.919Z"
   },
   "weekly": {
-   "session": "2026-08-04",
-   "code": "ZW1Q6",
-   "rows": 53,
-   "at": "2026-08-04T13:24:10.879Z"
+   "session": "2026-09-01",
+   "code": "ZW1U6",
+   "rows": 78,
+   "at": "2026-09-01T03:30:41.018Z"
   }
  },
  "open": {
   "monthly": {
-   "session": "2026-08-04",
-   "code": "OZWU6",
-   "basis": "prev-session",
-   "at": "2026-08-04T13:24:18.572Z",
-   "from": "2026-08-01"
+   "session": "2026-09-01",
+   "code": "OZWV6",
+   "basis": "rolled",
+   "at": "2026-09-01T03:30:47.933Z",
+   "from": "2026-08-04",
+   "prev_code": "OZWU6",
+   "note": "สัญญาโรลจาก OZWU6 -> OZWV6 จึงไม่มี OI วันก่อนของสัญญานี้"
   },
   "weekly": {
-   "session": "2026-08-04",
-   "code": "ZW1Q6",
-   "basis": "prev-session",
-   "at": "2026-08-04T13:24:07.873Z",
-   "from": "2026-08-01"
+   "session": "2026-09-01",
+   "code": "ZW1U6",
+   "basis": "rolled",
+   "at": "2026-09-01T03:30:39.574Z",
+   "from": "2026-08-04",
+   "prev_code": "ZW1Q6",
+   "note": "สัญญาโรลจาก ZW1Q6 -> ZW1U6 จึงไม่มี OI วันก่อนของสัญญานี้"
   }
  }
 }
