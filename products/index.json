@@ -182,5 +182,9 @@
  "IRON_ORE_APO_ICT": {
   "label": "Iron Ore APO (ICT|TIO)",
   "updated_at": "2026-08-05T19:10:55.022Z"
+ },
+ "SOYBEAN_MEAL_OZM": {
+  "label": "Soybean Meal (OZM|ZM)",
+  "updated_at": "2026-09-01T03:34:29.917Z"
  }
 }
