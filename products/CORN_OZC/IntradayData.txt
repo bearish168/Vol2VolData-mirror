@@ -1,5 +1,5 @@
-Corn (OZC|ZC) ZC1U6 (3.61 DTE) vs 536.75 (-1) - Intraday Volume
-Put: 41 Call: 15 Vol: 29.75 Vol Chg: 0.60 Future Chg: -1
+Corn (OZC|ZC) ZC1U6 (3.60 DTE) vs 536.5 (-1.25) - Intraday Volume
+Put: 41 Call: 15 Vol: 29.75 Vol Chg: 0.60 Future Chg: -1.25
 Strike,Call,Put,Vol Settle
 495,0,0,0
 500,0,0,0
