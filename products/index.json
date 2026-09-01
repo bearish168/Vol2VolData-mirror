@@ -190,5 +190,9 @@
  "2_YR_ERIS_SOFR_SWAP_YIT": {
   "label": "2 Yr Eris SOFR Swap (YIT|YIT)",
   "updated_at": "2026-09-01T07:16:46.837Z"
+ },
+ "5_YR_ERIS_SOFR_SWAP_YIW": {
+  "label": "5 Yr Eris SOFR Swap (YIW|YIW)",
+  "updated_at": "2026-09-01T07:17:24.156Z"
  }
 }
