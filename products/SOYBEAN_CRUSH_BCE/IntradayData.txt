@@ -1,4 +1,4 @@
-Soybean Crush (BCE|BCE) BCEU6 (20.37 DTE) vs 262 (+0) - Intraday Volume
+Soybean Crush (BCE|BCE) BCEV6 (24.61 DTE) vs 236 (+0) - Intraday Volume
 Put: 0 Call: 0 Vol: 0.00 Vol Chg: 0.00 Future Chg: 0
 Strike,Call,Put,Vol Settle
-262,0,0,0
+236,0,0,0
