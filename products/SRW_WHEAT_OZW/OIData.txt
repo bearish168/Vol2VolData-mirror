@@ -1,5 +1,5 @@
-SRW Wheat (OZW|ZW) ZW1U6 (3.61 DTE) vs 771.25 (-2.75) - Open Interest
-Put: 3,356 Call: 3,054 Vol: 51.04 Vol Chg: -0.21 Future Chg: -2.75
+SRW Wheat (OZW|ZW) ZW1U6 (3.60 DTE) vs 771.75 (-2.25) - Open Interest
+Put: 3,356 Call: 3,054 Vol: 51.04 Vol Chg: -0.21 Future Chg: -2.25
 Strike,Call,Put,Vol Settle
 665,0,18,0
 670,0,96,0
