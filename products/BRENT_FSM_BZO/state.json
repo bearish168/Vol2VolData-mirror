@@ -1,19 +1,21 @@
 {
  "data": {
   "monthly": {
-   "session": "2026-08-05",
-   "code": "BZOV6",
-   "rows": 118,
-   "at": "2026-08-05T15:15:29.919Z"
+   "session": "2026-09-01",
+   "code": "BZOX6",
+   "rows": 126,
+   "at": "2026-09-01T04:57:27.985Z"
   }
  },
  "open": {
   "monthly": {
-   "session": "2026-08-05",
-   "code": "BZOV6",
-   "basis": "prev-session",
-   "at": "2026-08-05T15:15:27.921Z",
-   "from": "2026-08-01"
+   "session": "2026-09-01",
+   "code": "BZOX6",
+   "basis": "rolled",
+   "at": "2026-09-01T04:57:25.993Z",
+   "from": "2026-08-05",
+   "prev_code": "BZOV6",
+   "note": "สัญญาโรลจาก BZOV6 -> BZOX6 จึงไม่มี OI วันก่อนของสัญญานี้"
   }
  }
 }
