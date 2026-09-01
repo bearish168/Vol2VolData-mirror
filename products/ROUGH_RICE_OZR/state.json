@@ -1,19 +1,21 @@
 {
  "data": {
   "monthly": {
-   "session": "2026-08-05",
-   "code": "OZRU6",
-   "rows": 17,
-   "at": "2026-08-05T13:44:48.877Z"
+   "session": "2026-09-01",
+   "code": "OZRV6",
+   "rows": 26,
+   "at": "2026-09-01T04:28:30.971Z"
   }
  },
  "open": {
   "monthly": {
-   "session": "2026-08-05",
-   "code": "OZRU6",
-   "basis": "prev-session",
-   "at": "2026-08-05T13:44:45.876Z",
-   "from": "2026-08-01"
+   "session": "2026-09-01",
+   "code": "OZRV6",
+   "basis": "rolled",
+   "at": "2026-09-01T04:28:28.967Z",
+   "from": "2026-08-05",
+   "prev_code": "OZRU6",
+   "note": "สัญญาโรลจาก OZRU6 -> OZRV6 จึงไม่มี OI วันก่อนของสัญญานี้"
   }
  }
 }
