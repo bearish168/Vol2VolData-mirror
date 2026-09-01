@@ -1,5 +1,5 @@
-Soybean Meal (OZM|ZM) ZM1U6 (3.62 DTE) vs 338.2 (-0.4) - Intraday Volume
-Put: 1 Call: 0 Vol: 30.70 Vol Chg: -0.13 Future Chg: -0.4
+Soybean Meal (OZM|ZM) ZM1U6 (3.61 DTE) vs 338 (-0.6) - Intraday Volume
+Put: 1 Call: 0 Vol: 30.70 Vol Chg: -0.13 Future Chg: -0.6
 Strike,Call,Put,Vol Settle
 310,0,0,0
 315,0,0,0.3600089203842458
