@@ -1,19 +1,21 @@
 {
  "data": {
   "monthly": {
-   "session": "2026-08-05",
-   "code": "UGOQ6",
-   "rows": 29,
-   "at": "2026-08-05T13:58:22.879Z"
+   "session": "2026-09-01",
+   "code": "UGOU6",
+   "rows": 36,
+   "at": "2026-09-01T04:41:28.972Z"
   }
  },
  "open": {
   "monthly": {
-   "session": "2026-08-05",
-   "code": "UGOQ6",
-   "basis": "prev-session",
-   "at": "2026-08-05T13:58:19.884Z",
-   "from": "2026-08-01"
+   "session": "2026-09-01",
+   "code": "UGOU6",
+   "basis": "rolled",
+   "at": "2026-09-01T04:41:26.976Z",
+   "from": "2026-08-05",
+   "prev_code": "UGOQ6",
+   "note": "สัญญาโรลจาก UGOQ6 -> UGOU6 จึงไม่มี OI วันก่อนของสัญญานี้"
   }
  }
 }
