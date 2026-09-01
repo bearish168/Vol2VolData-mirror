@@ -1,4 +1,4 @@
-Soybean Meal (OZM|ZM) ZM1U6 (3.61 DTE) vs 338 (-0.6) - Open Interest
+Soybean Meal (OZM|ZM) ZM1U6 (3.60 DTE) vs 338 (-0.6) - Open Interest
 Put: 879 Call: 552 Vol: 30.70 Vol Chg: -0.13 Future Chg: -0.6
 Strike,Call,Put,Vol Settle
 310,0,1,0
