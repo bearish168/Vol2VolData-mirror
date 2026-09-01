@@ -1,4 +1,4 @@
-Oats (OZO|ZO) OZOV6 (24.61 DTE) vs 372.5 (-0.5) - Intraday Volume
+Oats (OZO|ZO) OZOV6 (24.59 DTE) vs 372.5 (-0.5) - Intraday Volume
 Put: 0 Call: 0 Vol: 35.31 Vol Chg: 35.31 Future Chg: -0.5
 Strike,Call,Put,Vol Settle
 285,0,0,0
