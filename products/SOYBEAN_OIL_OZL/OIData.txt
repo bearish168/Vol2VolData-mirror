@@ -1,4 +1,4 @@
-Soybean Oil (OZL|ZL) 1OCU6 (1.61 DTE) vs 72.46 (+1.63) - Open Interest
+Soybean Oil (OZL|ZL) 1OCU6 (1.60 DTE) vs 72.46 (+1.63) - Open Interest
 Put: 1 Call: 3 Vol: 35.04 Vol Chg: -0.03 Future Chg: 1.63
 Strike,Call,Put,Vol Settle
 67.75,0,0,0.37366289882868386
