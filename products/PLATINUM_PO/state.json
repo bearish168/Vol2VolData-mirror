@@ -1,19 +1,21 @@
 {
  "data": {
   "monthly": {
-   "session": "2026-08-05",
-   "code": "POU6",
-   "rows": 79,
-   "at": "2026-08-05T17:52:46.986Z"
+   "session": "2026-09-01",
+   "code": "POV6",
+   "rows": 159,
+   "at": "2026-09-01T07:19:24.543Z"
   }
  },
  "open": {
   "monthly": {
-   "session": "2026-08-05",
-   "code": "POU6",
-   "basis": "prev-session",
-   "at": "2026-08-05T17:52:44.995Z",
-   "from": "2026-08-04"
+   "session": "2026-09-01",
+   "code": "POV6",
+   "basis": "rolled",
+   "at": "2026-09-01T07:19:22.948Z",
+   "from": "2026-08-05",
+   "prev_code": "POU6",
+   "note": "สัญญาโรลจาก POU6 -> POV6 จึงไม่มี OI วันก่อนของสัญญานี้"
   }
  }
 }
