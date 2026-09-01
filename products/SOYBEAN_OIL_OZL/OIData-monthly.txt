@@ -1,7 +1,6 @@
-Soybean Oil (OZL|ZL) OZLV6 (24.61 DTE) vs 72.45 (+1.62) - Open Interest
-Put: 43,517 Call: 54,783 Vol: 30.39 Vol Chg: -0.12 Future Chg: 1.62
+Soybean Oil (OZL|ZL) OZLV6 (24.61 DTE) vs 72.46 (+1.63) - Open Interest
+Put: 43,517 Call: 54,783 Vol: 30.39 Vol Chg: -0.12 Future Chg: 1.63
 Strike,Call,Put,Vol Settle
-57,0,248,0.4263144596853632
 57.5,50,213,0.4145363905618158
 58,0,782,0.40360285832511167
 58.5,1,1340,0.393472354902638
