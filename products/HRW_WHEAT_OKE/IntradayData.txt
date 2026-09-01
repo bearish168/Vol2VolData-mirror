@@ -1,5 +1,5 @@
-HRW Wheat (OKE|KE) OE1U6 (3.62 DTE) vs 836 (-2) - Intraday Volume
-Put: 3 Call: 0 Vol: 53.02 Vol Chg: -0.43 Future Chg: -2
+HRW Wheat (OKE|KE) OE1U6 (3.61 DTE) vs 835.75 (-2.25) - Intraday Volume
+Put: 3 Call: 0 Vol: 53.02 Vol Chg: -0.43 Future Chg: -2.25
 Strike,Call,Put,Vol Settle
 715,0,0,0
 720,0,0,0
