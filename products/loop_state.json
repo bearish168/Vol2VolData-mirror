@@ -1,0 +1,13 @@
+{
+ "session": "2026-09-01",
+ "finished_at": "2026-09-01T07:20:44.402Z",
+ "total": 45,
+ "done": 45,
+ "ok": 41,
+ "fail": [
+  "XRP (XRP|XRP) — ไม่มีข้อมูล strike",
+  "WTI Crude Oil (LC|CL) — ไม่มีข้อมูล strike",
+  "Brent Crude Oil (BE|BZ) — ไม่มีข้อมูล strike",
+  "S&P MidCap 400 (EMD|EMD) — ไม่มีข้อมูล strike"
+ ]
+}
