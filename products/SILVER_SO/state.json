@@ -1,32 +1,36 @@
 {
  "data": {
   "weekly": {
-   "session": "2026-08-05",
-   "code": "SO1Q6",
-   "rows": 93,
-   "at": "2026-08-05T17:51:59.998Z"
+   "session": "2026-09-01",
+   "code": "S1TU6",
+   "rows": 66,
+   "at": "2026-09-01T07:18:56.798Z"
   },
   "monthly": {
-   "session": "2026-08-05",
-   "code": "SOU6",
-   "rows": 160,
-   "at": "2026-08-05T17:52:12.986Z"
+   "session": "2026-09-01",
+   "code": "SOV6",
+   "rows": 170,
+   "at": "2026-09-01T07:19:04.136Z"
   }
  },
  "open": {
   "weekly": {
-   "session": "2026-08-05",
-   "code": "SO1Q6",
-   "basis": "prev-session",
-   "at": "2026-08-05T17:51:57.984Z",
-   "from": "2026-08-04"
+   "session": "2026-09-01",
+   "code": "S1TU6",
+   "basis": "rolled",
+   "at": "2026-09-01T07:18:55.380Z",
+   "from": "2026-08-05",
+   "prev_code": "SO1Q6",
+   "note": "สัญญาโรลจาก SO1Q6 -> S1TU6 จึงไม่มี OI วันก่อนของสัญญานี้"
   },
   "monthly": {
-   "session": "2026-08-05",
-   "code": "SOU6",
-   "basis": "prev-session",
-   "at": "2026-08-05T17:52:10.985Z",
-   "from": "2026-08-04"
+   "session": "2026-09-01",
+   "code": "SOV6",
+   "basis": "rolled",
+   "at": "2026-09-01T07:19:02.449Z",
+   "from": "2026-08-05",
+   "prev_code": "SOU6",
+   "note": "สัญญาโรลจาก SOU6 -> SOV6 จึงไม่มี OI วันก่อนของสัญญานี้"
   }
  }
 }
