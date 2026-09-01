@@ -1,5 +1,5 @@
-Corn (OZC|ZC) OZCV6 (24.61 DTE) vs 536.75 (-1) - Open Interest
-Put: 131,506 Call: 141,809 Vol: 24.27 Vol Chg: -0.04 Future Chg: -1
+Corn (OZC|ZC) OZCV6 (24.60 DTE) vs 536.5 (-1.25) - Open Interest
+Put: 131,506 Call: 141,809 Vol: 24.27 Vol Chg: -0.04 Future Chg: -1.25
 Strike,Call,Put,Vol Settle
 445,120,3981,0
 450,2768,8521,0
