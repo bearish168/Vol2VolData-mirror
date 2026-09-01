@@ -1,5 +1,5 @@
-Soybeans (OZS|ZS) ZS1U6 (3.62 DTE) vs 1297.75 (+9.75) - Intraday Volume
-Put: 14 Call: 3 Vol: 22.29 Vol Chg: 0.10 Future Chg: 9.75
+Soybeans (OZS|ZS) ZS1U6 (3.61 DTE) vs 1297.25 (+9.25) - Intraday Volume
+Put: 14 Call: 3 Vol: 22.29 Vol Chg: 0.10 Future Chg: 9.25
 Strike,Call,Put,Vol Settle
 1220,0,0,0
 1224,0,0,0.25253159602243613
