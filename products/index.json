@@ -186,5 +186,9 @@
  "SOYBEAN_MEAL_OZM": {
   "label": "Soybean Meal (OZM|ZM)",
   "updated_at": "2026-09-01T03:52:14.943Z"
+ },
+ "2_YR_ERIS_SOFR_SWAP_YIT": {
+  "label": "2 Yr Eris SOFR Swap (YIT|YIT)",
+  "updated_at": "2026-09-01T07:16:46.837Z"
  }
 }
