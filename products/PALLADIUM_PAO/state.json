@@ -1,19 +1,21 @@
 {
  "data": {
   "monthly": {
-   "session": "2026-08-05",
-   "code": "PAOU6",
-   "rows": 144,
-   "at": "2026-08-05T18:03:26.004Z"
+   "session": "2026-09-01",
+   "code": "PAOV6",
+   "rows": 81,
+   "at": "2026-09-01T07:20:12.604Z"
   }
  },
  "open": {
   "monthly": {
-   "session": "2026-08-05",
-   "code": "PAOU6",
-   "basis": "prev-session",
-   "at": "2026-08-05T18:03:22.989Z",
-   "from": "2026-08-04"
+   "session": "2026-09-01",
+   "code": "PAOV6",
+   "basis": "rolled",
+   "at": "2026-09-01T07:20:11.073Z",
+   "from": "2026-08-05",
+   "prev_code": "PAOU6",
+   "note": "สัญญาโรลจาก PAOU6 -> PAOV6 จึงไม่มี OI วันก่อนของสัญญานี้"
   }
  }
 }
